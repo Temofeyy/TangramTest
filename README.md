@@ -4,7 +4,7 @@
 
 # Flutter test Traffic light
 
-There is a traffic light in the top of the screen, 
+There is a traffic light at the top of the screen, 
 below is the controller. At the bottom of the screen there are 3 colors: 
 green, yellow, red. Each of the colors can be dragged to the Controller, 
 and then the color on the Traffic Light will change. 
@@ -24,4 +24,4 @@ UI example:
 
 Work example:
 
-![](assets/gifs/work_example.gif)
+<img src="assets/gifs/work_example.gif" width="200">
